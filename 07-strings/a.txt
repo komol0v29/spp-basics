@@ -1,0 +1,6 @@
+no double digit
+no double digit 1
+no double digit 111
+6 6 6 no double digit 
+double digit 22
+22 double digit
